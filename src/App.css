@@ -17,23 +17,15 @@ padding: 14px;
 width: 100%;
 }
 
-.form{
-margin-top: 20px;
-}
-
 .data{
-  margin-top: 20px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   width: 100%;
+  justify-content: space-between;
+  padding:5px;
 }
 
-.data_val{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 60%;
-  padding: 0 9px 0 9px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+.btn{
+  background-color: aqua;
+  padding: 15px;
+  margin-top: 14px;
 }
